@@ -27,9 +27,13 @@ export default function Hero() {
             </div>
 
             <div className="mt-4">
-                <button className="bg-lightGrey text-dark font-bold px-6 py-2 rounded">
+                <a
+                    href="/cv.pdf"
+                    download
+                    className="bg-lightGrey text-dark font-bold px-6 py-2 rounded"
+                >
                     Download CV
-                </button>
+                </a>
             </div>
         </div>
     )

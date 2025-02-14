@@ -23,4 +23,6 @@ export const stacks = [
     'chrome',
     'shadcnui',
     'zod',
+    'angular17',
+    'csharp',
 ]
